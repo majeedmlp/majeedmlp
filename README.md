@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdul Majeed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a coffee lover
+- 🌱 I’m currently learning HTML , CSS & JS
 - 📫 to reach me majeed@gmail.com
 
 <!---
