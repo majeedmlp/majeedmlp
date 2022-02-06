@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Majeed
 - 👀 I’m a coffee lover
-- 🌱 I’m currently learning HTML , CSS & JS
+- 🌱 JS
 - 📫 to reach me majeed@gmail.com
 
 <!---
